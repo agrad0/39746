@@ -1,0 +1,11 @@
+html{background-color: grey}
+h1 {color: white;
+
+}
+
+div {
+    width: 150px;
+    height: 150px; 
+    background-color: #fea500;
+    margin-bottom: 10px;
+}
